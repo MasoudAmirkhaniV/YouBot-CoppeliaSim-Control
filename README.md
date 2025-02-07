@@ -76,7 +76,11 @@ This repository contains MATLAB scripts and CoppeliaSim models for kinematics co
 ## Videos
 ### Arm and Wheel Control
 
-https://github.com/user-attachments/assets/a02c2913-e200-4013-adce-de4c3e73baee
+
+
+https://github.com/user-attachments/assets/66c4736d-f980-4094-9eef-ecc408b97bc8
+
+
 
 ---
 
