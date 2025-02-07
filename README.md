@@ -75,7 +75,7 @@ This repository contains MATLAB scripts and CoppeliaSim models for kinematics co
 
 ## Videos
 ### Arm and Wheel Control
-![Arm Wheel Control](YouBot/video/arm_wheel.mp4)
+![Arm Wheel Control]([YouBot/video/arm_wheel.mp4](https://youtu.be/2eKb2sDePR8?si=Sy4m5hCZE9swdiWT))
 
 ### Arm Control Only
 ![Just Arm Control](YouBot/video/just_arm.avi)
