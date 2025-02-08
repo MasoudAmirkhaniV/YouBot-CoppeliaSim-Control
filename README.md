@@ -76,13 +76,11 @@ This repository contains MATLAB scripts and CoppeliaSim models for kinematics co
 ## Videos
 ### Arm and Wheel Control
 
-
-
 https://github.com/user-attachments/assets/66c4736d-f980-4094-9eef-ecc408b97bc8
-https://www.youtube.com/watch?v=2eKb2sDePR8
-
 
 ---
+
+https://www.youtube.com/watch?v=2eKb2sDePR8
 
 ## Notes
 - Ensure that the `remoteApi` library files are in the MATLAB path before running any scripts.
