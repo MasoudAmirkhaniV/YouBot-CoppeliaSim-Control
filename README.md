@@ -79,7 +79,7 @@ This repository contains MATLAB scripts and CoppeliaSim models for kinematics co
 
 
 https://github.com/user-attachments/assets/66c4736d-f980-4094-9eef-ecc408b97bc8
-
+https://www.youtube.com/watch?v=2eKb2sDePR8
 
 
 ---
